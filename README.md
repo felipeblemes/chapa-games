@@ -45,3 +45,19 @@ As instruções de instalação e execução serão adicionadas conforme a confi
 
 ## Status
 Em desenvolvimento – etapa de planejamento e definição de requisitos.
+
+
+## Documentação do Projeto
+
+Os documentos abaixo apresentam a análise e a modelagem do sistema Chapa Games.
+
+### Requisitos e planejamento
+- Documento de Requisitos e Escopo
+
+### Diagramas
+- [Diagrama de Classes](./Diagrama%20de%20classes%20-%20Chapa%20Games.png)
+- [Diagrama de Contexto](./diagramas/diagrama-contexto.md)
+- [DFD Nível 0 e Dicionário de Dados](./diagramas/dfd-nivel-0.md)
+
+### Exercícios
+- Exercício 4 - Análise Estruturada (PDF)
